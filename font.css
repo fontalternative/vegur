@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Vegur';
+    src: url('./woff2/Vegur-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vegur';
+    src: url('./woff2/Vegur-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vegur';
+    src: url('./woff2/Vegur-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
